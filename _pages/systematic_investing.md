@@ -2,9 +2,9 @@
 layout: archive
 permalink: /Systematic-Investing/
 title: "Systematic Investing"
-#author_profile: true
+author_profile: true
 header:
-  image: "/images/trade.jpg"
+  image: "/images/trade.jpeg"
 
 ---
 
