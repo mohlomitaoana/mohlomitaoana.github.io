@@ -4,7 +4,7 @@ permalink: /resume/
 title: "Resume"
 author_profile: true
 header:
-  image: "/images/handshake.jpg"
+  image: "/images/handshake.jpeg"
 
 ---
 
