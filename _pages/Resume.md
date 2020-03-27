@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /resume/
-title: "Resume"
+title: "resume"
 author_profile: true
 header:
   image: "/images/handshake.jpeg"
