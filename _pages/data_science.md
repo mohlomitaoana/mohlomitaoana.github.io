@@ -1,13 +1,12 @@
 ---
 layout: archive
-permalink: /Data-Science/
+permalink: /data-Science/
 title: "Data Science"
 author_profile: true
 header:
   image: "/images/data_science.jpeg"
 
 ---
-
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
