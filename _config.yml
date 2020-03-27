@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohlomi Taoana"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio for all projects I am interested in."
   location         : "Seattle, WA"
   email            :
@@ -119,7 +119,7 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon:  "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/mohlomitaoana"
+      url: "https://linkedin.com/in/mohlomitaoana"
 
 # Site Footer
 footer:
@@ -281,11 +281,11 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true 
+      related: true
   # _pages
-  - scope: 
+  - scope:
       path: ""
       type: pages
-    values: 
+    values:
       layout: single
       author_profile: true
