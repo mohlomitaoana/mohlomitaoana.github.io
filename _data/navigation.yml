@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Data Science"
-    url: /Data-science/
+    url: /Data-Science/
   - title: "About"
     url: /about/
   - title: "Quantitative Finance"
