@@ -4,7 +4,7 @@ permalink: /quant-finance/
 title: "Quantitative Finance"
 author_profile: true
 header:
-  image: "/images/trade.jpeg"
+  image: "/images/data.jpeg"
 
 ---
 {% include base_path %}

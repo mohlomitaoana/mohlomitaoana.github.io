@@ -3,8 +3,9 @@ layout: archive
 permalink: /Data-Science/
 title: "Data Science"
 author_profile: true
+excerpt: "Welcome to My Portfolio."
 header:
-  image: "/images/data_science.jpg"
+  overlay_image: "/images/data_science.jpeg"
 
 ---
 
