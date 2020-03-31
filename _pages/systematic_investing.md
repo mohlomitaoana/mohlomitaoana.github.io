@@ -4,7 +4,7 @@ permalink: /Systematic-Investing/
 title: "Systematic Investing"
 author_profile: true
 header:
-  image: "/images/trade.jpeg"
+  image: "/images/trade.jpg"
 
 ---
 {% include base_path %}

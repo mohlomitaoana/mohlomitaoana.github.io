@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /Data-Science/
-title: "Data Science"
+permalink: /resume/
+title: "Resume"
 author_profile: true
 header:
-  image: "/images/data_science.jpg"
+  image: "/images/handshake.jpg"
 
 ---
 
