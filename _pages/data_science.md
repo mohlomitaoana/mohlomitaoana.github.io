@@ -4,7 +4,7 @@ permalink: /Data-Science/
 title: "Data Science"
 author_profile: true
 header:
-  image: "/images/sanipass.jpg"
+  image: "/images/data_science.jpg"
 
 ---
 
