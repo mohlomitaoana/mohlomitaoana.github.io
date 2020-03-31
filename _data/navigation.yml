@@ -1,14 +1,11 @@
 # main links
-# changes
 main:
   - title: "About"
     url: /about/
-  - title: "Systematic Investing"
-    url:  /Systematic-Investing/
-  - title: "Data Science"
-    url: /Data-Science/
-  - title: "Resume"
-    url: /resume/
+  - title: "Data-Science Projects"
+    url: /data-science/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
