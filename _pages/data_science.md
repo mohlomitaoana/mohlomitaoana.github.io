@@ -3,7 +3,7 @@ layout: archive
 permalink: /Data-Science/
 title: "Data Science"
 author_profile: true
-excerpt: "Welcome to My Portfolio."
+excerpt: "All models are wrong but some are useful. - George Box"
 header:
   overlay_image: "/images/data_science.jpeg"
 
