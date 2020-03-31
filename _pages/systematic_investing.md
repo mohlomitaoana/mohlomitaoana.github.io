@@ -1,13 +1,13 @@
 ---
 layout: archive
-permalink: /Systematic-Investing/
-title: "Systematic Investing"
+permalink: /quant-finance/
+title: "Quantitative Finance"
 author_profile: true
 header:
   image: "/images/trade.jpg"
 
 ---
-{% include base_path %}
+
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
