@@ -3,7 +3,7 @@
 title: "About"
 permalink: /about/
 author_profile: true
-excerpt: "One cannot resist the lure of Africa. - Rudyard Kipling"
+excerpt: "One can not resist the lure of Africa. - Rudyard Kipling"
 header:
   overlay_image: "/images/spring.jpg"
 

@@ -1,7 +1,7 @@
 ---
 title: "A look at Trend following"
 date: 2020-03-20
-tags: [trend following, systematic investing, quantitative finance]
+tags: [ quantitative finance]
 header:
   excerpt: "Trend following"
 ---
@@ -10,9 +10,9 @@ header:
 
 ## second type of hearing and
 
-**Trend following** is amaizing
+**Trend following** is amazing
 
-and numbering workes like so
+and numbering works like so
 Here is an example:
 1. first
 2. second

@@ -5,7 +5,7 @@ title: "Quantitative Finance"
 author_profile: true
 excerpt: "Patterns of price movement are not random. However, they're close enough to random. -Jim Simmons "
 header:
-  overlay_image: "/images/data.jpeg"
+  overlay_image: "/images/gbp.jpeg"
 
 ---
 {% include base_path %}
