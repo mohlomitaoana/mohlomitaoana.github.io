@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 excerpt: "One can not resist the lure of Africa. - Rudyard Kipling"
 header:
-  overlay_image: "/images/handshake.jpg"
+  overlay_image: "/images/handshake.jpeg"
 
 ---
 
