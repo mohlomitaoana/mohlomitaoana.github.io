@@ -3,7 +3,7 @@
 title: "About"
 permalink: /about/
 author_profile: true
-excerpt: "One can not resist the lure of Africa. - Rudyard Kipling"
+excerpt: "The privilege of a lifetime is to become who you truly are. - Carl Jung"
 header:
   overlay_image: "/images/handshake.jpeg"
 
