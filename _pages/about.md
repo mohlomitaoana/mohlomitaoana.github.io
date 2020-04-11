@@ -31,11 +31,25 @@ Phi Beta Kappa 2018
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## Technical Skills
-
-
-
+- Data Wrangling and Data mining
+- Data Governance
+- Credit Risk Management
+- Time Series analysis
+- Machine learning
+- Investment Strategy Research
+- Systematic Investing
+- Monte Carlo Simulation
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## Programming and Computer Skills
 - SQL: Teradata, Netezza
 - Python : Numpy, Pandas, SKlearn, Scipy
 - R programming: quantmod, farway, MASS
+
+-------------------------------------------------------------------------------------------------------------------------------
+## Course Work
+- Options and Other derivatives
+- Investment Science
+- Optimization Methods in Finance
+- Financial Data Science
+- Monte Carlo methods in finance
+- Institutional Risk Management
