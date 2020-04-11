@@ -41,6 +41,7 @@ Phi Beta Kappa 2018
 - Monte Carlo Simulation
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ## Programming and Computer Skills
+- Linux Ubuntu
 - SQL: Teradata, Netezza
 - Python : Numpy, Pandas, SKlearn, Scipy
 - R programming: quantmod, farway, MASS
