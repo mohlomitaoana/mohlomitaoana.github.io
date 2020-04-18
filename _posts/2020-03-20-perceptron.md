@@ -6,17 +6,17 @@ header:
   excerpt: "Trend following"
 ---
 
-#H1 heading
+#More Information to follow
 
-## second type of hearing and
+## Information Follow
 
-**Trend following** is amazing
+**Trend following** more Information to follow
 
-and numbering works like so
+
 Here is an example:
-1. first
-2. second
-3. third
+1. Futures
+2. Indices
+3. Currencies
 
 Python code block:
 ```python
